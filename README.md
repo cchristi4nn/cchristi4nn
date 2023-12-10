@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding, fun, animals and more.
 - 🌱 I’m currently learning cogs.
 - 💞️ I’m looking to collaborate on python discord bots.
-- 📫 How to reach me -- nu._mb (discord)
+- 📫 How to reach me -- @itssnumb (discord)
